@@ -1,4 +1,4 @@
-#  linux short cut
+# Unix and Linux shortcuts
 ### 2016.04.25 Shibano
 
 ---
